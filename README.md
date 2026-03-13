@@ -1,20 +1,21 @@
 # 🤖 Superbot Cloud
 
-Enterprise-grade distributed bot platform. Multi-tenant, autoscaling, AI-powered bot infrastructure for businesses.
+Enterprise-grade distributed bot platform for **businesses and developers**. Multi-tenant, autoscaling, AI-powered bot infrastructure.
 
 ## 🚀 What We're Building
 
-**Superbot Cloud** is a proprietary, distributed bot runtime platform that enables businesses to deploy and scale bots effortlessly.
+**Superbot Cloud** is a proprietary, distributed bot runtime platform that enables **anyone** to deploy and scale bots effortlessly.
 
 ### Core Features
 - 🔥 **Distributed Bot Runtime** - Master/worker architecture with autoscaling
-- 🏢 **Multi-tenant System** - Isolated environments for each customer
+- 🏢 **Multi-tenant System** - Isolated environments for each user
 - 🧠 **AI Bot Builder** - LLM-powered bot creation interface
 - 📊 **Real-time Monitoring** - Bot Inspector with Prometheus + Grafana
 - 🔒 **Enterprise Security** - JWT auth, rate limiting, abuse protection
 - 💳 **Subscription Management** - Paddle integration with 4-tier plans (Free/Growth/Pro/Scale)
 - 📱 **Telegram Integration** - Native webhook support
 - 🐳 **Infrastructure** - Docker cluster, Redis queue, Kubernetes-ready
+
 
 ## 🔧 Tech Stack
 
@@ -28,9 +29,10 @@ Monitoring:   Prometheus + Grafana
 Infrastructure: Docker, Kubernetes-ready
 ```
 
+
 ## 🧪 Beta Testers Wanted!
 
-We're looking for **early adopters** to test Superbot Cloud before public launch!
+We're looking for **early adopters** (businesses & individual developers) to test Superbot Cloud before public launch!
 
 **🎁 Exclusive Beta Tester Rewards:**
 
