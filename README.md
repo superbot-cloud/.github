@@ -28,15 +28,16 @@ Monitoring:   Prometheus + Grafana
 Infrastructure: Docker, Kubernetes-ready
 ```
 
-
 ## 🧪 Beta Testers Wanted!
 
 We're looking for **early adopters** to test Superbot Cloud before public launch!
 
 **🎁 Exclusive Beta Tester Rewards:**
 
-✅ **First month FREE** - Start using the platform at no cost  
-✅ **50% discount** for the next 3 months after beta  
+✅ **Beta access included** - Be the first to try the platform  
+✅ **First month FREE** after beta (total 2 months free!)  
+✅ **50% discount** for the next 3 months  
+✅ **Total 5 months of benefits!** (Beta + 1 month free + 3 months half price)  
 ✅ **Early access** to all new features  
 ✅ **Direct influence** on product roadmap  
 ✅ **Priority support** during beta phase
